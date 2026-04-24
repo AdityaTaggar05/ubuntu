@@ -1,0 +1,6 @@
+theme = Catppuccin Mocha
+font-family = JetBrainsMonoNL NFP
+gtk-titlebar = true
+background-opacity = 0.95
+window-height = 40
+window-width = 150
