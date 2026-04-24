@@ -11,3 +11,4 @@ GNOME Extensions
 - Dash2Dock Animated
 - X11 Gestures
 
+> Note: Put the obsidian watch service under $HOME/.config/systemd/user folder
