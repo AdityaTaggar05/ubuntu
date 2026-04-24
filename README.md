@@ -11,4 +11,6 @@ GNOME Extensions
 - Dash2Dock Animated
 - X11 Gestures
 
-> Note: Put the obsidian watch service under $HOME/.config/systemd/user folder
+> NOTE:
+> Put the obsidian watch service under $HOME/.config/systemd/user directory
+> Put the battery limit service under /etc/systemd/system directory
