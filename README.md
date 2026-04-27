@@ -13,4 +13,4 @@ GNOME Extensions
 
 > NOTE:
 > Put the obsidian watch service under $HOME/.config/systemd/user directory
-> Put the battery limit service under /etc/systemd/system directory
+> Put the battery limit services under /etc/systemd/system directory and enable the services
