@@ -14,3 +14,9 @@ GNOME Extensions
 > NOTE:
 > Put the obsidian watch service under $HOME/.config/systemd/user directory
 > Put the battery limit services under /etc/systemd/system directory and enable the services
+
+To adjust the scroll speed
+```bash
+sudo xinput list                  # find the id of touchpad
+xinput set-prop <id> "libinput Scrolling Pixel Distance" 40
+```
